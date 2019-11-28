@@ -1,0 +1,6 @@
+:root {
+  --2071-b5: #2071b5;
+  --call-to-action-active: #f1c50b;
+  --call-to-action-default: #ffda00;
+  --call-to-action-hover: #ffe85b;
+}
